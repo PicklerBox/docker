@@ -1,1 +1,1 @@
-vulhub/redis:4.0.14
+--platform=linux/amd64 vulhub/redis:4.0.14
