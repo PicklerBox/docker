@@ -1,2 +1,1 @@
-redis
-nginx
+vulhub/redis:4.0.14
